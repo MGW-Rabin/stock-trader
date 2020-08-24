@@ -3,7 +3,7 @@
 > A Vue.js Project
 
 ### Live DEMO
-> https://rabinmallick.github.io/
+> https://mgw-rabin.github.io/stock-trader/
 
 ## Build Setup
 
